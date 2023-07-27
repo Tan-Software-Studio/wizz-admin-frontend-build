@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6e9d3745.css",
-    "main.js": "/static/js/main.37cb429b.js",
+    "main.js": "/static/js/main.1c47c1cd.js",
     "static/media/wizzLogo.png": "/static/media/wizzLogo.ff1d4eaf28af0916b46c.png",
     "index.html": "/index.html",
     "main.6e9d3745.css.map": "/static/css/main.6e9d3745.css.map",
-    "main.37cb429b.js.map": "/static/js/main.37cb429b.js.map"
+    "main.1c47c1cd.js.map": "/static/js/main.1c47c1cd.js.map"
   },
   "entrypoints": [
     "static/css/main.6e9d3745.css",
-    "static/js/main.37cb429b.js"
+    "static/js/main.1c47c1cd.js"
   ]
 }
